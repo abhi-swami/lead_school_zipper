@@ -51,8 +51,8 @@ The Zip Code Information App, built with React, is a dynamic application that em
 7. **Clear Information Option:**
    - A dedicated button or option allows users to easily clear displayed information, facilitating quick exploration of multiple locations.
 
-8. **Stylish Design with TailwindCSS:**
-   - The application is aesthetically pleasing and responsive, thanks to the styling implemented using TailwindCSS.
+8. **Stylish Design with Chakra UI:**
+   - The application is aesthetically pleasing and responsive, thanks to the styling implemented using Chakra UI.
 
 9. **Optional Redux Integration:**
    - Users have the option to implement Redux for advanced state management, enhancing scalability and maintainability.
