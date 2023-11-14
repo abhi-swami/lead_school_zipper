@@ -13,7 +13,7 @@ The Zip Code Information App, built with React, is a dynamic application that em
 <p align="center">
   <b>Frontend</b><br>
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E" alt="react">
-   <img src="https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23F7DF1E" alt="react">
+   <img src="https://img.shields.io/badge/chakraui-%23323330.svg?style=for-the-badge&logo=chakra-ui&logoColor=%23F7DF1E" alt="react">
 </p>
 
 <p align="center">
